@@ -1,0 +1,28 @@
+body
+{
+   <img scr="macor.jpg;" >
+    background-color:lightblue;
+}
+table, td{border:1px solid black;
+    border-collapse: collapse;}
+table{width: 75%;
+    height: 600px;
+}
+td{vertical-align: top;}
+#one{
+    background-color:red;
+    height: 150px;
+
+}
+#two{
+    background-color: blue;
+    width: 30%;
+    height: 60%;
+
+}
+#three{
+    background-color: blueviolet;
+    width: 30%;
+    height: 60%;
+}
+
